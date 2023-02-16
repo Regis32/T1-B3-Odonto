@@ -1,0 +1,58 @@
+# T1-B3-Odonto
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="C:\Users\Gabriel Regis\OneDrive\Documentos\Desenv. front end\T1-B3\odonto.css">
+
+    <title>Consultório Odontológico</title>
+</head>
+<body>
+    <!--Cabelho Príncipal-->
+    <div class="cabecalho">
+        <h1>Dr.Pedro Alvares Cabral</h1>
+        <p>Aqui, só queremos te ver sorrir</p>
+        
+</div>
+ <!--Menu-->
+ <div class="menu">
+    <a href="TI-B3.HTML"></a>
+    <a href="Pagina2.HTML">Contato</a>
+ </div>   
+ <!--Corpo da página - Duas Colunas-->
+ <div class="row">
+    <!--Coluna da esquerda-->
+    <div class="colunaesquerda">
+        <div class="card rightm">
+            <h2>Conheça nossos tratamentos!</h2>
+            <h5>Venha deixa o seu sorriso ainda mais lindo!</h5>
+            <img src="img/imagem1.jpeg" alt="Tratamento Odontológico " width="400" height="200"> 
+            <p><em>Faça seu orçamento!</em></p>
+            <p>Apenas um texto nada a ver aqui para teste, descrição seria uma boa mas estou fazendo apenas o esboço</p>
+        </div>
+        <div class="car rightm">
+            <h2>Tratamento contra Cáries e Tártaro!</h2>
+            <h5>Venha fazer o seu tratamento com os melhores pordutos e equipamento dda cidade</h5>
+            <img src="img/imagem2.jpg" alt="Dente com sáude" width="400" height="200">
+            <p><em>Faça seu orçamento!</em></p>
+            <p>Apenas um texto nada a ver aqui para teste, descrição seria uma boa mas estou fazendo apenas o esboço</p>
+        </div>
+    </div>
+    <!--Coluna da diretia-->
+    <div class="colunadireita">
+        <div class="card">
+            <h2>Dr. Alveres Cabral</h2>
+            <img src="img/imagem3.webp" alt="Examinando o paciente" width="400" height="200">
+            <p>Formado em São Paulo. Especialista em ordondotiua corretiva</p>
+        </div>
+    </div>
+ </div>
+ <!--Rodapé-->
+ <div class="rodape">
+    <h2>Todos os direitos reservados</h2>
+ </div>
+
+</body>
+</html>
